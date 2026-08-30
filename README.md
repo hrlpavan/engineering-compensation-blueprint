@@ -2,7 +2,7 @@
 > **Candidate**: Pavan Kumar Sadashiv  
 > **Specialization**: C++/GPU Systems | Combinatorial Optimization (DSA/CSP) | Multimodal Agentic AI | Founder-Level Full-Stack  
 > **Official Portfolio**: [github.com/hrlpavan](https://github.com/hrlpavan) | HRL International Private Limited  
-> **Email**: `pavankcet@gmail.com`
+> **Email**: `hrlinternationalprivatelimited@gmail.com`
 
 ---
 
@@ -82,6 +82,6 @@ This repository serves as the **official, verified compensation charter and care
 ## 📬 Contact & Official Inquiries
 
 For interview scheduling, technical screening, or direct offer dispatch:
-- **Email**: `pavankcet@gmail.com`
+- **Email**: `hrlinternationalprivatelimited@gmail.com`
 - **GitHub**: [github.com/hrlpavan](https://github.com/hrlpavan)
 - **Corporate Platform**: [hrlpavan.github.io/hrl-international-website-/](https://hrlpavan.github.io/hrl-international-website-/)
