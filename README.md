@@ -73,7 +73,8 @@ This repository serves as the **official, verified compensation charter and care
 
 ##  Repository Contents
 
-- [**`CV.md`**](CV.md): Official executive Curriculum Vitae / Resume.
+- [**`CV.md`**](CV.md): Official executive Curriculum Vitae.
+- [**`RESUME.md`**](RESUME.md): Official ATS-optimized Executive Resume.
 - [**`COMPENSATION_DEMAND_LETTER.md`**](COMPENSATION_DEMAND_LETTER.md): Official letter of terms for prospective employers.
 - [**`COMPENSATION_AND_VALUATION_ANALYSIS.md`**](COMPENSATION_AND_VALUATION_ANALYSIS.md): Quantitative valuation breakdown and negotiation playbook.
 - [**`PORTFOLIO_PROOF_AND_SYSTEMS_MATRIX.md`**](PORTFOLIO_PROOF_AND_SYSTEMS_MATRIX.md): Detailed architectural inspection of all projects.
