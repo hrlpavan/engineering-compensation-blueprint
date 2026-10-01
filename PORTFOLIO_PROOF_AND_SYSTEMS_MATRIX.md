@@ -48,3 +48,16 @@
   2. Filed formal dossiers for Startup India Seed Fund Scheme (SISFS) and Karnataka ELEVATE Grant 2026.
   3. Full trademark, copyright, and DMCA legal governance roadmap.
   4. Certified in JPMorgan Chase Distributed Streaming (Kafka) & Deloitte Cyber Defense simulations.
+
+---
+
+## 5. Project 5: `hrl-x-rolls-royce` / `v12-engine-hrl` (6¾L Twin-Turbo V12 Interactive 3D CAD & Thermodynamic Digital Twin)
+
+- **Repository**: [github.com/hrlpavan/hrl-x-rolls-royce](https://github.com/hrlpavan/hrl-x-rolls-royce)
+- **Languages & Frameworks**: JavaScript (ES6+ Modules), Three.js (WebGL 60 FPS), Web Audio API, Canvas 2D Telemetry, Vite.
+- **Key Engineering Achievements**:
+  1. **Thermodynamic Grounding (Prof. V. Ganesan *IC Engines* 4th Ed.)**: Implemented thermodynamic formulas for Atkinson LIVC Miller cycle, toroidal squish bowl turbulence, SCV swirl flaps, cooled EGR, 350-bar direct injection, 198 g/kWh BSFC island, Morse cylinder friction test, and Sankey energy balance.
+  2. **WebGL 3D Assembly & Kinematics**: Fully articulated 60 FPS digital twin with crank-slider piston kinematics, twin mono-scroll turbochargers with animated turbine compressor wheels and wastegate actuators, DOHC 48-valve train, and intercooler ducting.
+  3. **Multi-Harmonic Procedural Audio**: Mathematical synthesis of firing intervals for 1-7-5-11-3-9-6-12-2-8-4-10 firing order across fundamental engine orders, twin turbocharger spool whine, and blow-off valve acoustics.
+  4. **Interactive HUD & Telemetry**: Dynamic P-V indicator diagrams, real-time Sankey heat balance diagrams, Morse test breakdown, dyno pull torque/power curves (563 bhp / 900 Nm), and WLTP/EPA real-world fuel economy calculator.
+
